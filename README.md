@@ -11,6 +11,6 @@ I wanted to use this bot on 2b2t, bot the bot can't connect to the server! <br>
 By the way, it can't work with ZenithProxy. At least it can connect to it... 
 
 Exception:
-`Chunk size is 75 but only 1 was read ; partial packet : {"name":123}; buffer : blah blah long data}`
+`Chunk size is 75 but only 1 was read ; partial packet : {"name":123}; buffer : blah blah long data`
 
 
